@@ -1,0 +1,30 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.parent-div{
+  width: 800px;
+  height: 400px;
+  background-color: orange;
+  margin: auto;
+  margin-top: 50px;
+  display: grid;
+  /* grid-template-columns:  ; */
+  /* align-content: space-evenly; */
+  /* justify-content: space-between; */
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows:  repeat(2, 1fr);
+}
+
+.div-one{
+ 
+  background-color: blue;
+
+}
+.div-two{
+ 
+  background-color: rgb(26, 255, 0); 
+}
