@@ -1,0 +1,14 @@
+div{
+  /* border: 2px solid black; */
+  /* border-width: 2px; */
+  /* border-style: solid;
+  border-width: 10px;
+  border-color: red; */
+  border: 2px solid red;
+  width: 250px;
+  height: 250px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+}

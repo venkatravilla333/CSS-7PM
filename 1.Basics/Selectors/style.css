@@ -1,0 +1,68 @@
+/* .myclass{
+  color: blue;
+}
+.yourclass{
+  color: rgb(43, 255, 0);
+}
+
+#myid{
+  font-size: 30px;
+}
+
+p{
+  color: red;
+} */
+
+/* *{
+  margin: 0;
+  box-sizing: border-box;
+} */
+
+/* .yourclass, h1, h2, #myid{
+  color: red;
+} */
+
+
+/* #parent-div p{
+    color: red;
+} */
+
+/* #parent-div > p{
+    color: red;
+} */
+
+/* #parent-div + p{
+    color: red;
+} */
+
+/* #parent-div ~ p{
+    color: red;
+} */
+
+/* p:hover{
+  color: red;
+} */
+/* 
+
+p::after{
+  content: "Hello";
+  color: red;
+} */
+
+
+/* [title='mytitle']{
+  color: red;
+} */
+
+/* [title ^='hi']{
+  color: red;
+} */
+ 
+/* [title $='bye']{
+  color: red;
+} */
+/* 
+[title *='hi']{
+  color: red;
+} */
+

@@ -1,0 +1,18 @@
+
+.parent{
+  border: 2px solid black;
+  width: 800px;
+  height: 400px;
+  display: flex;
+  /* flex-direction: column; */
+  /* flex-direction: row; */
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+}
+
+.child{
+  border: 2px solid blue;
+  width: 200px;
+  height: 100px;
+}

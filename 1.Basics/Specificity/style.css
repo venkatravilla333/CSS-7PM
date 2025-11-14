@@ -1,0 +1,25 @@
+
+
+
+#myid{
+  color: blueviolet;
+}
+
+div p{
+   color: rgb(255, 145, 0);
+}
+
+.myclass{
+  color: green;
+}
+
+p{
+  color: blue;
+}
+
+*{
+  color: red !important;
+}
+
+
+

@@ -1,0 +1,11 @@
+div{
+  width: 800px;
+  height: 550px;
+  border: 2px solid black;
+  /* background: aqua; */
+  background-image: url('https://im.rediff.com/cricket/2024/sep/30sachin-tendulkar.jpg?w=450&h=450');
+  background-repeat: no-repeat;
+  /* background-position: right bottom; */
+  /* background-size: 200px 200px; */
+  background-attachment: fixed;
+}
