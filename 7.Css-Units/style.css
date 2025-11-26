@@ -1,0 +1,65 @@
+
+/* absolute units  px */
+/* .parent{
+  width: 800px;
+  height: 200px;
+  border: 2px solid black;
+}
+
+.child{
+  width: 800px;
+  height: 100px;
+  border: 2px solid red;
+} */
+
+/* relative units % */
+
+/* .parent{
+  width: 400px;
+  height: 200px;
+  border: 2px solid black;
+}
+
+.child{
+  width: 80%;
+  height: 100px;
+  border: 2px solid red;
+} */
+
+/* relative units vw & vh */
+
+/* html{
+  border: 2px solid blue;
+}
+
+.parent{
+  width: 90vw;
+  height: 200px;
+  border: 2px solid black;
+}
+
+.child{
+  width: 80vw;
+  height: 100px;
+  border: 2px solid red;
+} */
+
+/* relative units rem */
+
+/* html{
+  font-size: 50px;
+}
+
+p{
+  font-size: 2rem;
+} */
+
+div{
+  font-size: 50px;
+}
+
+p{
+  font-size: 1em;
+  width: 10em;
+  border: 2px solid black;
+}
